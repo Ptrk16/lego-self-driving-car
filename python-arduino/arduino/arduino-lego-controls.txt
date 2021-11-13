@@ -1,0 +1,19 @@
+// Arduino controls for Lego Technic by Patrik \\
+
+Servo:
+L = Left  180°
+C = Center 90°
+R = Servo   0°
+
+Gas:
+F = Forwards
+B = Backwards
+S = Stop
+
+General:
+Zero -> 0 = Start position (center servo at 90° and stop rolling)
+
+#LEDs:
+# = Indicator left
+# = Indicator right
+# = Lights
